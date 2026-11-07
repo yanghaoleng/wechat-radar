@@ -13,7 +13,10 @@
 
 **[中文](#中文) | [English](#english)**
 
-> 重要：本项目仅供学习研究和个人非商业实验使用，禁止用于商业盈利。请先阅读 [免责声明](DISCLAIMER.md) 和 [许可证](LICENSE)。
+> 重要：本项目现有非商业使用声明见 [免责声明](DISCLAIMER.md) 和 [许可证](LICENSE)；上游内容的既有许可须同时保留。
+
+> 许可范围：本库包含上游 MIT 发布版本的继承内容。现有非商业声明不能替代上游版权和 MIT 许可通知，也不撤回该上游版本已授予的权利。继承范围、固定版本证据及完整许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。这不为后续新增内容授予 MIT 许可。
+
 
 ---
 
@@ -125,7 +128,7 @@ WeChat Radar 默认只在本机读写数据：
 
 用户需要自行承担安装、配置、运行、修改、部署、数据处理和传播行为的全部责任。因使用或误用本项目导致的账号限制、数据丢失、隐私泄露、商业损失、法律纠纷、平台处罚、服务中断、误判摘要或其它后果，项目作者和贡献者不承担责任。
 
-完整条款见 [DISCLAIMER.md](DISCLAIMER.md) 和 [LICENSE](LICENSE)。
+完整条款见 [DISCLAIMER.md](DISCLAIMER.md) 和 [LICENSE](LICENSE)。上述声明须结合 [上游许可范围](THIRD_PARTY_NOTICES.md) 阅读，不替代继承内容的 MIT 版权和许可通知。
 
 ## 项目结构
 
@@ -213,4 +216,4 @@ Safety guidance:
 
 ## License
 
-Non-commercial research use only. See [LICENSE](LICENSE) and [DISCLAIMER.md](DISCLAIMER.md).
+The existing noncommercial terms are in [LICENSE](LICENSE) and [DISCLAIMER.md](DISCLAIMER.md). This fork also contains material inherited from an MIT-licensed upstream revision. Its copyright and permission notice must be preserved, and rights already granted for that upstream revision are not withdrawn. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for the verified inheritance scope and the complete upstream license. This notice does not grant an MIT license to later additions.
